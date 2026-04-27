@@ -88,6 +88,3 @@ Projeto acadêmico desenvolvido em grupo como parte da grade curricular da facul
 
 ---
 
-## Licença
-
-Este projeto é de uso acadêmico e não possui fins lucrativos.
