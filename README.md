@@ -53,7 +53,7 @@ Escaneie o QR Code gerado com o aplicativo **Expo Go** para rodar no seu disposi
 
 Prefere instalar diretamente no Android? Baixe o APK pela build mais recente:
 
-[Download APK](https://expo.dev/accounts/renandev2002/projects/ProjetoMobile/builds/20a88306-4b54-41ab-9923-298b6407fd13)
+[Download APK](https://expo.dev/accounts/renandev2002/projects/ProjetoMobile/builds/caf6f982-3e02-4c3c-854f-aa0311cd6394)
 
 ---
 
